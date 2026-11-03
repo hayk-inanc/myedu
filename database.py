@@ -1,2 +1,3 @@
 def connect():
-    return {"done": "ok"}
+    result = {"done": "ok"}
+    return result 
